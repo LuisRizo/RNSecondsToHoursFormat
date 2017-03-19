@@ -7,6 +7,6 @@ MAC 283 Homework - React Native app to convert the given number in seconds to Da
 - Run on IOS emulator or Android
 
 # Install on Android
-- Download the "SecondsToHours.apk" into your phone
+- Download the "SecondsToHours1.apk" into your phone
 - Install it
 - Run it
