@@ -35,7 +35,8 @@ export default class App extends Component{
             highlightColor={'#00BCD4'}
             keyboardType={'numeric'}
             value={this.state.seconds}
-            onChangeText={(seconds)=>this.setState({seconds:seconds})}/>
+            onChangeText={(seconds)=>this.setState({seconds:seconds})}
+            dense={true}/>
             <Picker
               style={styles.Picker}
               selectedValue={this.state.format}
