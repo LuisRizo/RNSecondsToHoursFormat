@@ -1,0 +1,3 @@
+rootProject.name = 'SecondsConversion'
+
+include ':app'
